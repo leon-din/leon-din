@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leon-din
+- 👀 I’m interested in MLOps, DevOps, AI, LLMs
+- 🌱 I’m currently learning LangChain & LLMs apps dev
+- 💞️ I’m looking to collaborate on MLOps, DevOps tools
+- 📫 How to reach me @leondin222 on X
